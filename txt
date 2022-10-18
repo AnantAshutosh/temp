@@ -1,0 +1,22 @@
+<div style="width: 100%; display: table;">
+      <div style="display: table-row; height: 100px;">
+          <div style="width: 33%; display: table-cell; ">
+            <hr style="width:90%; height:0px; text-align:left;margin-left:0">
+            <h3>Technology Services</h3>
+            <h3>Public WareHousing</h3>
+            <h3>Yard Storage</h3>
+            <hr style="width:90%;text-align:left;margin-left:0">
+          </div>
+          <div style="display: table-cell; background: rgb(22, 22, 58);"> 
+          
+            <div class="last">
+              
+              <h5>Want to see how FTZ World Services can help you?</h5>
+        
+              <button class="buttonDoubleGradient">Request Someone to Contact You ></button>
+        
+            </div>
+        
+          </div>
+      </div>
+  </div>
